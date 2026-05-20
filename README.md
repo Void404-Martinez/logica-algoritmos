@@ -10,7 +10,6 @@ Aqui você encontrará:
 * 📋 pseudocódigo e fluxogramas
 * 🚀 desafios de lógica e resolução de problemas
 
----
 
 # 📂 Organização
 
@@ -21,11 +20,7 @@ fundamentos/
 exercicios/
 ```
 
----
-
 # 📈 Objetivo
 
 Desenvolver uma base sólida em programação, pensamento lógico e resolução de problemas para evolução no desenvolvimento de software.
-
----
 
