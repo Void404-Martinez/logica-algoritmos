@@ -10,7 +10,9 @@
 *O que torna um algoritmo computacional é a exigência de precisão absoluta: o computador não **infere**, não **supõe**, não **improvisa**.*
 
 ## :jigsaw: Abstração
-Antes de escrever qualquer passo, faça trêS perguntas:
+Antes de escrever qualquer passo, faça três perguntas:
 - **O que entra?**
 - **O que acontece no meio?**
-- **O que deve sair?**
+- **O que deve sair?** 
+
+> Esse modelo **entrada**-->**processamento**-->**saída** é a estrutura de qualquer algoritmo bem pensado.
