@@ -18,4 +18,4 @@ Antes de escrever qualquer passo, faça três perguntas:
 - **O que acontece no meio?**
 - **O que deve sair?** 
 
-> Esse modelo **entrada**---**processamento**---**saída** é a estrutura de qualquer algoritmo bem pensado.
+> Esse modelo **entrada**-->**processamento**-->**saída** é a estrutura de qualquer algoritmo bem pensado.
