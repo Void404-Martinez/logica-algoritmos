@@ -7,10 +7,10 @@
 É uma sequência de passos **finita**, **ordenada** e **sem ambiguidade** que resolve um problema.
 
 ### :warning: 
-*O que torna um algoritmo computacional é a exigência de precisão absoluta: o computador não **infere**, não **supõe**, não **improvisa**.*
+> *O que torna um algoritmo computacional é a exigência de precisão absoluta: o computador não **infere**, não **supõe**, não **improvisa**.*
 
 ## :jigsaw: Abstração
 Antes de escrever qualquer passo, faça trêS perguntas:
--**O que entra?**
--**O que acontece no meio?**
--**O que deve sair?**
+- **O que entra?**
+- **O que acontece no meio?**
+- **O que deve sair?**
