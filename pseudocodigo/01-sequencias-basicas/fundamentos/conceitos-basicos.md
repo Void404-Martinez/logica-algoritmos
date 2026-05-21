@@ -1,6 +1,7 @@
 # 📚 Conceitos-Basicos
 
-## Lógica de Programação
+## :brain: Lógica de Programação
 É a capacidade de descrever passos ordenados para resolver um problema. Lógica é a arte de eliminar **ambiguidade**.
 
-## Algoritmos
+## :brain: Algoritmos
+É uma sequência de passos **finita**, **ordenada** e **sem ambiguidade** que resolve um problema.
