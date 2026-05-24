@@ -1,21 +1,28 @@
-# :green_book: Conceitos-Basicos
+# 📗 Conceitos Básicos
 
-## :brain: Lógica de Programação
-É a capacidade de descrever passos ordenados para resolver um problema. Lógica é a arte de eliminar **ambiguidade**.
+## 🧠 Lógica de Programação
 
+É a capacidade de descrever passos ordenados para resolver um problema.  
+Lógica é a arte de eliminar **ambiguidade**.
 
-## :brain: Algoritmos
+## 🧠 Algoritmos
+
 É uma sequência de passos **finita**, **ordenada** e **sem ambiguidade** que resolve um problema.
 
-### :warning: 
+### ⚠️ Observação
 
-> *O que torna um algoritmo computacional é a exigência de precisão absoluta: o computador não **infere**, não **supõe**, não **improvisa**.*
+> O que torna um algoritmo computacional é a exigência de precisão absoluta:
+>
+> o computador não **infere**, não **supõe**, não **improvisa**.
 
+## 🧩 Abstração
 
-## :jigsaw: Abstração
 Antes de escrever qualquer passo, faça três perguntas:
+
 - **O que entra?**
 - **O que acontece no meio?**
-- **O que deve sair?** 
+- **O que deve sair?**
 
-> Esse modelo **entrada**-->**processamento**-->**saída** é a estrutura de qualquer algoritmo bem pensado.
+> Esse modelo  
+> **entrada** → **processamento** → **saída**  
+> é a estrutura de qualquer algoritmo bem pensado.
