@@ -26,3 +26,52 @@ Antes de escrever qualquer passo, faça três perguntas:
 > Esse modelo  
 > **entrada** → **processamento** → **saída**  
 > é a estrutura de qualquer algoritmo bem pensado.
+
+## 🧠 Variáveis
+
+Programas precisam **armazenar informações temporariamente**.  
+Para isso usamos **variáveis**.
+
+Uma variável possui três elementos principais:
+
+- **Nome**
+- **Tipo**
+- **Valor**
+
+## 🧠 Tipos Primitivos
+
+São os tipos mais básicos de dados que uma linguagem costuma oferecer.
+
+### ⚠️ Observação
+
+> Pense numa variável como uma **caixa etiquetada**.
+>
+> A **etiqueta** é o nome.  
+> O que você coloca dentro é o **valor**.  
+> E o **tipo** define o que pode ser colocado na caixa.
+>
+> Você não guarda um texto numa caixa de números.
+
+## 🧠 Operadores
+
+### 📌 Aritméticos
+
+São usados para fazer cálculos matemáticos.
+
+### 📌 Relacionais
+
+São usados para comparar valores.
+
+### 📌 Lógicos
+
+São usados para combinar condições.
+
+## 🧠 Comandos de Entrada & Saída
+
+### 📌 Entrada
+
+É quando um programa recebe informações, como qualquer valor digitado.
+
+### 📌 Saída
+
+É quando um programa mostra alguma informação na tela.
