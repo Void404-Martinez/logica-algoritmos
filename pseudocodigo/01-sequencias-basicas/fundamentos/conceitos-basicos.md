@@ -68,10 +68,10 @@ São usados para combinar condições.
 
 ## 🧠 Comandos de Entrada & Saída
 
-### 📌 Entrada
+### 📥 Entrada
 
 É quando um programa recebe informações, como qualquer valor digitado.
 
-### 📌 Saída
+### 📥 Saída
 
 É quando um programa mostra alguma informação na tela.
