@@ -1,4 +1,4 @@
-# 📝 Exercício 1
+# 📝 Exercício 2
 
 ## 📌 Enunciado
 
@@ -6,12 +6,12 @@
 
 ## 💻 Código
 
-```text id="m4x9qp"
+```text
 START
-    Write("Digite seu nome: ")
-    read nome
+    WRITE("Digite seu nome: ")
+    READ nome
 
-    wirete("Olá", nome ,", é um prazer te conhecer!")
+    WRITE("Olá", nome ,", é um prazer te conhecer!")
 END
 ```
 
@@ -22,7 +22,7 @@ Este algoritmo utiliza comandos de entrada e saída para interagir com o usuári
 ### 🔎 Fluxo do algoritmo
 
 * `START` → inicia o algoritmo
-* `Write(...)` → exibe mensagens na tela
+* `WRITE(...)` → exibe mensagens na tela
 * `read nome` → lê o nome digitado pelo usuário
 * `wirete(...)` → mostra a mensagem de boas-vindas
 * `END` → finaliza o algoritmo
