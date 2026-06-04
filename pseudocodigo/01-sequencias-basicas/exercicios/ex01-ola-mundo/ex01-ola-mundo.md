@@ -7,9 +7,9 @@
 ### 💻 Código
 
 ```text
-START
-    WRITE("Olá, mundo!")
-END
+INICIO
+    ESCREVA("Olá, mundo!")
+FIM
 ```
 
 ### 📖 Explicação
@@ -17,6 +17,6 @@ END
 Este algoritmo utiliza um comando de saída para exibir uma mensagem na tela.
 O fluxo acontece da seguinte forma:
 
-* `START` → inicia o algoritmo
-* `WRITE(...)` → escreve a mensagem na tela
-* `END` → finaliza o algoritmo
+* `INICIO` → inicia o algoritmo
+* `ESCREVA(...)` → escreve a mensagem na tela
+* `FIM` → finaliza o algoritmo
