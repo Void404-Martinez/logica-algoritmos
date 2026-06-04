@@ -23,12 +23,3 @@ Este programa solicita o nome e o salário de um funcionário, armazena essas in
 * `input('Digite seu salário: ')` → solicita e lê o salário informado
 * `int(...)` → converte o valor digitado para um número inteiro
 * `print(...)` → exibe uma mensagem com o nome e o salário do funcionário
-
-### 📋 Exemplo de execução
-
-```text
-Digite seu nome: João
-Digite seu salário: 2500
-
-O funcionário João tem um salário de 2500 no mês de junho.
-```
