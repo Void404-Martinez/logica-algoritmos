@@ -7,15 +7,15 @@
 ## 💻 Código
 
 ```text id="n7v3qx"
-START
-    WRITE("Digite seu nome: ")
-    READ nome
+INICIO
+    ESCREVA("Digite seu nome: ")
+    LEIA nome
 
-    WRITE("Digite seu salário: ")
-    READ salario
+    ESCREVA("Digite seu salário: ")
+    LEIA salario
 
-    WRITE("O funcionário", nome ,", tem um salário de", salario ,"em junho")
-END
+    ESCREVA("O funcionário", nome ,", tem um salário de", salario ,"em junho")
+FIM
 ```
 
 ## 📖 Explicação
@@ -24,9 +24,9 @@ Este algoritmo utiliza comandos de entrada e saída para interagir com o usuári
 
 ### 🔎 Fluxo do algoritmo
 
-* `START` → inicia o algoritmo
-* `WRITE(...)` → exibe mensagens na tela
-* `READ nome` → lê o nome do funcionário
-* `READ salario` → lê o salário informado
-* `WRITE(...)` → mostra a mensagem com os dados do funcionário
-* `END` → finaliza o algoritmo
+* `INICIO` → inicia o algoritmo
+* `ESCREVA(...)` → exibe mensagens na tela
+* `LEIA nome` → lê o nome do funcionário
+* `LEIA salario` → lê o salário informado
+* `ESCREVA(...)` → mostra a mensagem com os dados do funcionário
+* `FIM` → finaliza o algoritmo

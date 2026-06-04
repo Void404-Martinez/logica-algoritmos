@@ -7,12 +7,12 @@
 ## 💻 Código
 
 ```text
-START
-    WRITE("Digite seu nome: ")
-    READ nome
+INICIO
+    ESCREVA("Digite seu nome: ")
+    LEIA nome
 
-    WRITE("Olá", nome ,", é um prazer te conhecer!")
-END
+    ESCREVA("Olá", nome ,", é um prazer te conhecer!")
+FIM
 ```
 
 ## 📖 Explicação
@@ -21,8 +21,8 @@ Este algoritmo utiliza comandos de entrada e saída para interagir com o usuári
 
 ### 🔎 Fluxo do algoritmo
 
-* `START` → inicia o algoritmo
-* `WRITE(...)` → exibe mensagens na tela
-* `read nome` → lê o nome digitado pelo usuário
-* `wirete(...)` → mostra a mensagem de boas-vindas
-* `END` → finaliza o algoritmo
+* `INICIO` → inicia o algoritmo
+* `ESCREVA(...)` → exibe mensagens na tela
+* `LEIA nome` → lê o nome digitado pelo usuário
+* `ESCREVA(...)` → mostra a mensagem de boas-vindas
+* `FIM` → finaliza o algoritmo
